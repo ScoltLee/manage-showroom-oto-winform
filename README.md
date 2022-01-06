@@ -1,2 +1,2 @@
 # manage-showroom-oto-winform
-The application allow users manage some information about car in their showroom 
+The application allows users to manage some information about car in their showroom
